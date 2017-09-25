@@ -36,7 +36,7 @@
     <term name="forthcoming">mendatang</term>
     <term name="from">dari</term>
     <term name="ibid">ibid.</term>
-    <term name="in">in</term>
+    <term name="in">dalam</term>
     <term name="in press">in press</term>
     <term name="internet">internet</term>
     <term name="interview">wawancara</term>
@@ -53,7 +53,7 @@
       <single>ref.</single>
       <multiple>ref.</multiple>
     </term>
-    <term name="retrieved">diambil</term>
+    <term name="retrieved">diakses</term>
     <term name="scale">skala</term>
     <term name="version">versi</term>
 
@@ -170,8 +170,8 @@
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>hal.</single>
-      <multiple>hal.</multiple>
+      <single>hlm.</single>
+      <multiple>hlm.</multiple>
     </term>
     <term name="number-of-pages" form="short">
       <single>hal.</single>
