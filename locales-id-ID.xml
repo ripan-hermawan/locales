@@ -174,8 +174,8 @@
       <multiple>hal.</multiple>
     </term>
     <term name="number-of-pages" form="short">
-      <single>hal.</single>
-      <multiple>hal.</multiple>
+      <single>hlm.</single>
+      <multiple>hlm.</multiple>
     </term>
     <term name="paragraph" form="short">para.</term>
     <term name="part" form="short">pt.</term>
