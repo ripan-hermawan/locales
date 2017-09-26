@@ -36,7 +36,7 @@
     <term name="forthcoming">mendatang</term>
     <term name="from">dari</term>
     <term name="ibid">ibid.</term>
-    <term name="in">in</term>
+    <term name="in">dalam</term>
     <term name="in press">in press</term>
     <term name="internet">internet</term>
     <term name="interview">wawancara</term>
@@ -161,8 +161,8 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">chap.</term>
-    <term name="column" form="short">col.</term>
+    <term name="chapter" form="short">bab.</term>
+    <term name="column" form="short">kol.</term>
     <term name="figure" form="short">gam.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">no.</term>
@@ -170,8 +170,8 @@
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>hal.</single>
-      <multiple>hal.</multiple>
+      <single>hlm.</single>
+      <multiple>hlm.</multiple>
     </term>
     <term name="number-of-pages" form="short">
       <single>hlm.</single>
@@ -232,7 +232,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ed.</single>
@@ -304,9 +304,9 @@
     <term name="month-12" form="short">Des</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Semi</term>
-    <term name="season-02">Panas</term>
-    <term name="season-03">Gugur</term>
-    <term name="season-04">Dingin</term>
+    <term name="season-01">Musim Semi</term>
+    <term name="season-02">Musim Panas</term>
+    <term name="season-03">Musim Gugur</term>
+    <term name="season-04">Musim Dingin</term>
   </terms>
 </locale>
